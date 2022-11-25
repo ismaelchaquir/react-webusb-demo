@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-webusb-demo/static/css/main.e6c13ad2.css",
+    "main.js": "/react-webusb-demo/static/js/main.ff14fb88.js",
+    "index.html": "/react-webusb-demo/index.html",
+    "main.e6c13ad2.css.map": "/react-webusb-demo/static/css/main.e6c13ad2.css.map",
+    "main.ff14fb88.js.map": "/react-webusb-demo/static/js/main.ff14fb88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ff14fb88.js"
+  ]
+}
